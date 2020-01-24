@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Section3</string>
+    <string name="enter_room">Enter Room</string>
+    <string name="ok">OK</string>
+    <string name="light">Light</string>
+    <string name="noise">Noise</string>
+    <string name="image_content_description">Image Content_Description</string>
+    <string name="lightonoff">Light On Off</string>
+    <string name="ringonoff">Ring On Off</string>
+    <string name="search_room">Search Room</string>
+    <string name="add_room">Add Room</string>
+    <string name="light_level">Light Level</string>
+</resources>
